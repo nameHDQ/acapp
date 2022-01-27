@@ -18,6 +18,10 @@
           <option name="caretOffset" value="176" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/.gitignore" />
         </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="161" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/game/views.py" />
+        </OpenedFileInfo>
       </list>
     </option>
   </component>
