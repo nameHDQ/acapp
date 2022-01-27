@@ -7,12 +7,16 @@
     <option name="openedFilesInfos">
       <list>
         <OpenedFileInfo>
-          <option name="caretOffset" value="0" />
+          <option name="caretOffset" value="12" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/.gitignore" />
         </OpenedFileInfo>
         <OpenedFileInfo>
           <option name="caretOffset" value="0" />
           <option name="fileUrl" value="file://$PROJECT_DIR$/acapp/settings.py" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="176" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.idea/.gitignore" />
         </OpenedFileInfo>
       </list>
     </option>
