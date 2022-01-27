@@ -1,7 +1,8 @@
 from django.contrib import admin
 from django.urls import path
-from game.views import hello
+from game.views import index, play
 
 urlpatterns = [
-    path("", hello, name="hello")
+    path("", index, name="index"),
+    path("play/", play, name="play")
 ]
