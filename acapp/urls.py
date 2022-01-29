@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, include
 
 urlpatterns = [
-    # path('game/', include('game.urls')),
+    # 将game的URL加入总的URL
+    path('', include('game.urls.index')),
     path('admin/', admin.site.urls),
 ]
