@@ -1,6 +1,6 @@
-#! /bin/bash
+#! /bin/zsh
 
-JS_PATH=/home/hdq/acapp/game/static/js/
+JS_PATH=/Users/hdq/PycharmProjects/pythonProject/game/static/js/
 JS_PATH_DIST=${JS_PATH}dist/
 JS_PATH_SRC=${JS_PATH}src/
 
